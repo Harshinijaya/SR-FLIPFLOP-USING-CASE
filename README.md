@@ -42,7 +42,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 ~~~
 DEVELOPED BY : J.Harshini
-REGISTER NUMBER : 212224050120
+REGISTER NUMBER : 212225040120
 ~~~
 ~~~
 module sr(q, q_bar, s,r, clk, reset);
